@@ -1,1 +1,2 @@
-# facturas-Tkinter
+Se crea un modulo de facturas, usando Tkinter 
+se tiene encuenta las posiciones de los paneles para dividir las interfaces, lo ideal es algo que permita generar las cuentas con impuestos y demas dando los totales de cada cosa, ademas tambien se vera en una ventana las cuentas hechas por el sistema y este tambien podra guardar esas cuentas en un archivo en formato txt, esto con fines de aprendizade de tkinter de python
